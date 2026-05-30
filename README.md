@@ -15,5 +15,5 @@
 - [Titanic-EDA-project](https://github.com/vsreepoojitha/Titanic-EDA-project)
 
 ### 📫 Connect with me
-- LinkedIn: []
-- GitHub: [link]
+- LinkedIn:https://www.linkedin.com/in/vankayala-sree-poojitha-71226039b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub:https://github.com/vsreepoojitha
