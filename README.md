@@ -12,7 +12,7 @@
 - EDA
 
 ### 📌 Projects
-- [Titanic EDA](link to your project)
+- [Titanic-EDA-project](https://github.com/vsreepoojitha/Titanic-EDA-project)
 
 ### 📫 Connect with me
 - LinkedIn: []
