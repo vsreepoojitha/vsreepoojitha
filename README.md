@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [V.Sree Poojitha] 👋
 
-<!--
-**vsreepoojitha/vsreepoojitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Science Student | 3rd Year
 
-Here are some ideas to get you started:
+### 🔭 Current Work
+- AI  Short term Internship at datapro
+- Learning SQL and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Skills
+- Python, Pandas, NumPy, Matplotlib, Seaborn
+- SQL (Learning)
+- EDA
+
+### 📌 Projects
+- [Titanic EDA](link to your project)
+
+### 📫 Connect with me
+- LinkedIn: []
+- GitHub: [link]
