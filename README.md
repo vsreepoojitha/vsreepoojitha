@@ -6,10 +6,15 @@
 - AI  Short term Internship at datapro
 - Learning SQL and Machine Learning
 
-### 🌱 Skills
-- Python, Pandas, NumPy, Matplotlib, Seaborn
-- SQL (Learning)
-- EDA
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Programming Languages** | Python, R, SQL|
+| **Python Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Visualization Tools** | Tableau, Matplotlib, Seaborn |
+| **Concepts** | EDA, Data Visualization, Statistics |
+| **Tools** | Google Colab, GitHub, Jupyter |
 
 ### 📌 Projects
 - [Titanic-EDA-project](https://github.com/vsreepoojitha/Titanic-EDA-project)
