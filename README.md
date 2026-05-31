@@ -1,6 +1,6 @@
 # Hi, I'm [V.Sree Poojitha] 👋
 
-## Data Science Student | 3rd Year
+## Bsc(hons)Data Science Student | 3rd Year
 
 ### 🔭 Current Work
 - AI  Short term Internship at datapro
